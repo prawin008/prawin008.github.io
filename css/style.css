@@ -1,0 +1,90 @@
+* {
+    padding : 0;
+    margin : 0;
+}
+
+body {
+    background : white;
+    color : black;
+		font-family: 'Source Code Pro', monospace;
+}
+
+header{
+
+	border: solid black;
+	padding-bottom: 10 px;
+	box-shadow: 0px 5px 10px  grey;
+	
+}
+
+#title, nav {
+		text-align: center;
+}
+nav {
+		margin-top: 10px;
+		padding: 10px 5px 0 5px;
+		color: black;
+		margin-bottom:10px;
+}
+
+.menu-items {
+		color: black;
+		padding: 5px;
+		border: solid black;
+		text-decoration: none;
+		
+
+}
+
+.menu-items:hover {
+		background-color: black;
+		color: white;
+}
+
+.menu-items:active {
+		background-color: black;
+		color: white;
+
+}
+
+main{
+
+	margin: 15px auto;
+
+}
+
+div{
+	margin: 10px;
+	border: solid black;
+	
+}
+
+.content-title {
+
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+ .content {
+
+	padding: 15px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
